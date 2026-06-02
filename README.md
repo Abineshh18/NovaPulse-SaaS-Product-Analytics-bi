@@ -1,2 +1,2 @@
 # NovaPulse-SaaS-Product-Analytics-bi
-End-to-end product analytics, cohort retention modeling, and agile requirements engineering to drive a +$56K ARR monetization strategy.
+Built end-to-end B2B SaaS  Product analytics & monetisation strategy over 7 weeks, this Senior BA portfolio project takes NovaPulse — a B2B SaaS tool with 500 accounts and $533K baseline ARR — from raw data to a boardroom-ready monetisation strategy. Analysed 32,600 rows to uncover $56,673 ARR uplift (+10.6%) · Churn analysis · Pricing optimisation · BRD · Agile backlog · 4-page Power BI dashboard.
