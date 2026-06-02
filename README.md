@@ -1,6 +1,6 @@
 # NovaPulse-BA — B2B SaaS Product Analytics & Monetisation Strategy
 
-> End-to-end Senior BA portfolio · Complete artefact suite (Charter, BRD, Gap Analysis, Agile Backlog, UAT Plan) · Analysed 32,600 rows across 500 accounts · 4-page Power BI dashboard · Solved churn, pricing & feature adoption — uncovering $56,673 ARR uplift (+10.6%)
+> End-to-end B2B Product Analytics BI Solution · Complete artefact suite (Charter, BRD, Gap Analysis, Agile Backlog, UAT Plan) · Analysed 32,600 rows across 500 accounts · 4-page Power BI dashboard · Solved churn, pricing & feature adoption — uncovering $56,673 ARR uplift (+10.6%)
 
 ---
 
